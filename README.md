@@ -13,4 +13,12 @@ I am currently in my third year of B.Tech in Robotics and Automation at Symbiosi
 - 👯 I’m looking to collaborate on research in Reinforcement Learning.
 - 📫 How to reach me: Drop a message on my [Linkedin](https://www.linkedin.com/in/sadhana-sharma-/)
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/sadhana-sharma-/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="sadhanasharma0026@gmail.com" align="center">
+    <img src="https://img.shields.io/badge/-Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
 
