@@ -1,16 +1,16 @@
-### Hi there 👋
+# <div id="header" align="center">  <b>Hey there! <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50"/> I'm Sadhana.</b>
+  </div> 
+  
+I am currently in my third year of B.Tech in Robotics and Automation at Symbiosis Institute of Technology, Pune. With unbridled enthusiasm and an unwavering commitment, I strive to continuously enhance my knowledge and abilities, evolving into an enhanced rendition of myself with the passage of time.
 
-<!--
-**sadhanasharma26/sadhanasharma26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a project related to Object Detection and Tracking.
+- 🌱 I’m currently learning Application of AI/ML in robotics.
+- 👯 I’m looking to collaborate on research in Reinforcement Learning.
+- 📫 How to reach me: Drop a message on my [Linkedin](https://www.linkedin.com/in/sadhana-sharma-/)
+
+
