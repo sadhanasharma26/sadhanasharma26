@@ -18,7 +18,7 @@ I am currently in my third year of B.Tech in Robotics and Automation at Symbiosi
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="sadhanasharma0026@gmail.com" align="center">
-    <img src="https://img.shields.io/badge/-Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="sadhanasharma0026@gmail.com"/>
   </a>
 </div>
 
