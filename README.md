@@ -3,15 +3,11 @@
   
 I am currently in my third year of B.Tech in Robotics and Automation at Symbiosis Institute of Technology, Pune. With unbridled enthusiasm and an unwavering commitment, I strive to continuously enhance my knowledge and abilities, evolving into an enhanced rendition of myself with the passage of time.
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
-
-- 🔭 I’m currently working on a project related to Object Detection and Tracking.
-- 🌱 I’m currently learning Application of AI/ML in robotics.
-- 👯 I’m looking to collaborate on research in Reinforcement Learning.
-- 📫 How to reach me: Drop a message on my [Linkedin](https://www.linkedin.com/in/sadhana-sharma-/)
+- I’m currently working on a project related to Object Detection and Tracking.
+- I’m currently learning Application of AI/ML in robotics.
+- I’m looking to collaborate on research in Reinforcement Learning.
+- How to reach me: Drop a message on my [Linkedin](https://www.linkedin.com/in/sadhana-sharma-/)
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sadhana-sharma-/">
