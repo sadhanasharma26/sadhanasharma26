@@ -1,4 +1,4 @@
-# <div id="header" align="center">  <b>Hey there! <img src="https://media.giphy.com/media/w1OBpBd7kJqHrJnJ13/giphy.gif" width="50"/> I'm Sadhana.</b>
+# <div id="header" align="center">  <b>Hey there!  I'm Sadhana.</b>
   </div> 
   
 I am currently in my third year of B.Tech in Robotics and Automation at Symbiosis Institute of Technology, Pune. With unbridled enthusiasm and an unwavering commitment, I strive to continuously enhance my knowledge and abilities, evolving into an enhanced rendition of myself with the passage of time.
