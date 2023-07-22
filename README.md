@@ -5,8 +5,8 @@ I am currently in my third year of B.Tech in Robotics and Automation at Symbiosi
 
 
 - I’m currently working on a project related to Object Detection and Tracking.
-- I’m currently learning Application of AI/ML in robotics.
-- I’m looking to collaborate on research in Reinforcement Learning.
+- I’m currently learning Application of GANs in robotics.
+- I’m looking to collaborate on research in GANs.
 - How to reach me: Drop a message on my [Linkedin](https://www.linkedin.com/in/sadhana-sharma-/)
 
 <div id="badges" align="center">
