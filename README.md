@@ -84,11 +84,4 @@
   </div> 
 
 
-# <div id="header" align="left"> <img src="https://media.giphy.com/media/IflNFS33ulVXQHvhXn/giphy.gif" width="50"/> Join me
-  </div> 
-  
-  <div id="badges" align="center">
-  <a href="https://music.apple.com/profile/sadhana26">
-    <img src="https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white" alt="LinkedIn Badge"/>
-    
-  
+
