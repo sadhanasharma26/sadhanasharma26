@@ -3,7 +3,6 @@
   
 ### I am currently in my Final Year of B.Tech in Robotics and Automation at Symbiosis Institute of Technology, Pune. 
 
-- How to reach me: Drop a message on my [Linkedin](https://www.linkedin.com/in/sadhana-sharma-/)
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/sadhana-sharma-/">
