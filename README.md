@@ -66,8 +66,8 @@
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="sadhanasharma0026@gmail.com"/>
 </div>
   
-# <div id="header" align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadhanasharma26&layout=compact&theme=dark)
-  </div> 
+# <div id="header" align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadhanasharma26&show_icons=true&theme=dark)](https://github.com/sadhanasharma26/github-readme-stats)
+
 
   
 # <div id="header" align="center">   ![Sadhana's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadhanasharma26&show_icons=true&theme=dark)
