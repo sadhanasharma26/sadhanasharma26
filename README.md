@@ -1,12 +1,8 @@
 # <div id="header" align="center">  <b>Hey there!  I'm Sadhana.</b>
   </div> 
   
-### I am currently in my third year of B.Tech in Robotics and Automation at Symbiosis Institute of Technology, Pune. With unbridled enthusiasm and an unwavering commitment, I strive to continuously enhance my knowledge and abilities, evolving into an enhanced rendition of myself with the passage of time.
+### I am currently in my Final Year of B.Tech in Robotics and Automation at Symbiosis Institute of Technology, Pune. 
 
-
-- I’m currently working on a project related to Object Detection and Tracking.
-- I’m currently learning Application of GANs in robotics.
-- I’m looking to collaborate on research in GANs.
 - How to reach me: Drop a message on my [Linkedin](https://www.linkedin.com/in/sadhana-sharma-/)
 
 <div id="badges" align="center">
