@@ -25,7 +25,7 @@
 
 ### 👩‍💻 About Me:
 - 🎓 Graduated in **B.Tech in Robotics & Automation** at **Symbiosis Institute of Technology, Pune**
-- 💼 Computer Vision Intern at **C4i4 Lab, Pune**
+- 💼 AI & Computer Vision Intern at **C4i4 Lab, Pune**
 - 🔬 Former AI/ML Research Intern at **Symbiosis Center for Artificial Intelligence**
 - 🤖 Passionate about Computer Vision, Deep Learning, and Robotics
 - ☕ When not coding, you'll find me enjoying coffee, hitting the gym, or sleeping
