@@ -70,14 +70,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/sadhanasharma26/sadhanasharma26/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sadhanasharma26&theme=gruvbox" alt="Trophy"/>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=sadhanasharma26&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
