@@ -70,5 +70,16 @@
 </div>
 
 <div align="center">
+  <img src="https://github.com/sadhanasharma26/sadhanasharma26/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sadhanasharma26&theme=gruvbox" alt="Trophy"/>
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=sadhanasharma26&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
+
+### 📬 Let's Connect!
+- Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/sadhana-sharma-/) or [email](mailto:sadhanasharma0026@gmail.com)!
