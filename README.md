@@ -5,7 +5,7 @@
   </h1>
 
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Vision+%7C+Deep+Learning;Robotics+and+Automation;AI%2FML+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Computer+Vision+%7C+Deep+Learning;Robotics+and+Automation;AI%2FML+Enthusiast+%7C+Pythonista;Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG"/>
   </div>
 
   <div id="badges">
@@ -23,15 +23,19 @@
 
 ---
 
-### 👩‍💻 About Me:
-- 🎓 Graduated in **B.Tech in Robotics & Automation** at **Symbiosis Institute of Technology, Pune**
-- 💼 AI & Computer Vision Intern at **C4i4 Lab, Pune**
-- 🔬 Former AI/ML Research Intern at **Symbiosis Center for Artificial Intelligence**
-- 🤖 Passionate about Computer Vision, Deep Learning, and Robotics
-- ☕ When not coding, you'll find me enjoying coffee, hitting the gym, or sleeping
-- 🎯 Currently working on AI-Powered Defect Detection for Industrial Components
+### 👩‍💻 About Me
+
+- 🎓 **B.Tech in Robotics & Automation** — Symbiosis Institute of Technology, Pune
+- 💼 AI & Computer Vision Intern @ **C4i4 Lab, Pune**
+- 🔬 Former AI/ML Research Intern @ **Symbiosis Center for Artificial Intelligence**
+- 🤖 Passionate about Computer Vision, Deep Learning & Robotics
+- ☕ Love coffee, gym, and the occasional nap
+- 🎯 Currently working on AI-powered defect detection for industrial components
+
+---
 
 ### 🛠️ Tech Stack
+
 <div align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
@@ -43,6 +47,7 @@
 </div>
 
 ### 📊 ML/Data Science Tools
+
 <div align="center">
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -52,6 +57,7 @@
 </div>
 
 ### 🛠️ Development Tools & Platforms
+
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino"/>
