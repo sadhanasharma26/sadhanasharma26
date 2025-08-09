@@ -12,9 +12,9 @@
     <a href="https://www.linkedin.com/in/sadhana-sharma-/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://sadhanasharma26.blogspot.com">
+<!--     <a href="https://sadhanasharma26.blogspot.com">
       <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
-    </a>
+    </a> -->
     <a href="mailto:sadhanasharma0026@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
