@@ -44,16 +44,15 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" alt="Power BI" />
+  <img src="https://img.shields.io/badge/LLM-000000?style=for-the-badge&logo=openai&logoColor=white" alt="LLM" />
 
   <!-- DL/CV -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 
-
   <!-- Web/Frameworks -->
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-
 
   <!-- DevOps -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -71,7 +70,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sadhanasharma26&show_icons=true&theme=dark" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sadhanasharma26&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sadhanasharma26&theme=dark" alt="GitHub Streak" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadhanasharma26&layout=compact&show_icons=true&theme=dark" alt="Top Languages" />
 </div>
