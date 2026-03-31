@@ -70,9 +70,10 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadhanasharma26&show_icons=true&theme=dark" alt="GitHub Stats" />
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sadhanasharma26&theme=dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sadhanasharma26&theme=github_dark" />
+  
 
-  <img src="https://streak-stats.demolab.com?user=sadhanasharma26&theme=dark" alt="GitHub Streak" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadhanasharma26&layout=compact&show_icons=true&theme=dark" alt="Top Languages" />
 </div>
